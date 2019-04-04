@@ -1,0 +1,9 @@
+body {
+	/* background-color: rgba(45, 45, 120, 0.4);
+	background-image: url(../images/buenos-aires.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover; */
+	background: fixed url(../images/buenos-aires.jpg) no-repeat rgba(45, 45, 120, 0.4) center center / cover;
+}

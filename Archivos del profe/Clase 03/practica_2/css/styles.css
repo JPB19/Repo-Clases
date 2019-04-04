@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* Agrupación de Selectores */
+h1, h2, h3, h4, h5, h6 {
+	font-style: italic;
+}
+
+/* Selector de clase */
+.bg-home {
+	background-image: url(../img/emilia-home.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-attachment: fixed;
+}
+
+.bg-about {
+	background-image: url(../img/emilia-about.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-attachment: fixed;
+}
+
+/* Pseudo-selectores */
+h1:hover {
+	color: red;
+}
+
+/* Selectores descendentes */
+.navbar-home li a:hover {
+	font-size: 200px;
+}

@@ -1,0 +1,102 @@
+
+body{
+  background-image: url(../img/gastronomia.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container{
+  width: 960px;
+  background-color: rgba(50, 150, 255, 0.5);
+  border: solid 5px yellow;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 30px;
+}
+.enlaces{
+  width: 300px;
+  padding: 30px;
+  overflow: hidden;
+  float: left;
+  border: dotted 5px yellow;
+  box-sizing: border-box;
+  margin-top: 20px;
+  margin-top: 20px;
+  background-color: rgba(100, 50, 0, 0.5);
+}
+.recetas{
+  width: 630px;
+  padding: 30px;
+  overflow: hidden;
+  float: right;
+  border: dotted 5px yellow;
+  box-sizing: border-box;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgba(100, 50, 0, 0.5);
+}
+.div1{
+  border: solid 5px yellow;
+  padding: 30px;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgba(100, 50, 0, 0.5);
+}
+footer{
+  clear: both;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: dotted 5px yellow;
+  padding: 30px;
+  overflow: hidden;
+  box-sizing: border-box;
+  background-color: rgba(100, 50, 0, 0.5);
+}
+.div2{
+  float: right;
+}
+h1{
+  font-size: 40px;
+  font-style: italic;
+  text-decoration: underline;
+  color: rgb(100 , 180,100);
+  background-color: rgba(0, 0, 200, 0.5);
+}
+h2{
+  font-size: 35px;
+  font-style: italic;
+  font-family: arial;
+  text-decoration: underline;
+  color: gold;
+}
+h4{
+  font-size: 30px;
+  font-style: normal;
+  font-weight: normal;
+  font-family: arial;
+  text-decoration: underline;
+  color: black;
+}
+h5{
+  font-size: 30px;
+  font-style: normal;
+  font-weight: normal;
+  font-family: arial;
+  text-decoration: underline;
+  color: black;
+}
+a{
+  text-decoration: none;
+  font-style: italic;
+  font-family: sans-serif;
+  font-size: 25px
+}
+.a1{
+  text-align: right;
+}
+.mail{
+  color: red;
+  font-size: 30px
+}

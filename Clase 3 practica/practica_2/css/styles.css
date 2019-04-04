@@ -1,0 +1,135 @@
+.home{
+  background-image: url(../img/emilia-home.jpg);
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-attachment: fixed;
+}
+.h1-home{
+  font-family:"Raleway","sans-serif";
+  background-color: rgba(255, 255, 255, 0.5);
+  font-size: 80px;
+}
+.h2emi{
+  font-family:"Work Sans","Sans serif";
+  font-size: 40px;
+  font-weight: normal;
+  line-height: 10px;
+  opacity: 0.8;
+}
+.h2cole{
+  font-family:"Work Sans","Sans serif";
+  font-size: 40px;
+  font-weight: normal;
+  line-height: 10px;
+  opacity: 0.8;
+}
+a{
+  font-family: "Open sans" , "Sans serif";
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.8);
+}
+.imgh{
+    filter: grayscale(100);
+}
+.about{
+  background-image: url(../img/emilia-about.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-attachment: fixed;
+}
+.pabout{
+  font-family: "Open sans" , "Sans serif";
+  text-align: right;
+  background-color: rgba(255, 255,255, 0.5);
+  font-size: 25px;
+}
+.h1About{
+  font-family:"Raleway","sans-serif";
+  font-size: 50px;
+  line-height: 25px;
+}
+.h2About{
+  font-family:"Raleway","sans-serif";
+  font-size: 50px;
+  line-height: 1px;
+}
+.imgh1{
+  filter: grayscale(100);
+}
+.pdescript{
+  font-family: "Open sans" , "Sans serif";
+  font-size: 20px;
+  opacity: 0.5;
+}
+h6{
+  font-family: "Open sans", "Sans serif";
+  font-weight: normal;
+  opacity: 0.5;
+  }
+.pmusic{
+  text-align: right;
+  background-color: rgba(255, 255,255, 0.5);
+  font-size: 25px;
+}
+.h1music{
+  font-family: "Raleway", "Sans serif";
+}
+h5{
+  font-family: "Raleway", "Sans serif";
+  opacity: 0.8;
+}
+.iconos{
+  text-align: right;
+}
+.musica{
+  background-image: url(../img/emilia-music-top.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+li{
+  list-style: none;
+  font-weight: bold;
+  opacity: 0.5;
+  line-height: 1px
+}
+.h2music{
+  font-family: "Raleway", "Sans serif";
+  line-height: 5px
+}
+.musc{
+  font-family: "Open sans" , "Sans serif";
+  opacity: 0.7;
+  font-weight: bold;
+}
+.mmm{
+  font-family: "Open sans" , "Sans serif";
+  font-weight: bold;
+  opacity: 0.6;
+}
+.h1contact{
+  font-family: "Raleway","sans-serif";
+  font-size: 50px;
+}
+h3{
+  font-family: "Raleway","sans-serif";
+}
+.ah{
+  font-family: "Open sans" , "Sans serif";
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+  font-weight: bold;
+}
+.h4contact{
+  font-family: "Open sans" , "Sans serif";
+  opacity:0.5;
+}
+.pmdesc{
+  font-family: "Open sans" , "Sans serif";
+  font-weight: bold;
+  opacity: 0.7;
+
+
+}
